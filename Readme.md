@@ -80,17 +80,49 @@
 
 ---
 
-## 🧪 Installation
+## 🧪 Installation 
 
 1. Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/ReconForge.git
 cd ReconForge
+```
+## 🧪 How to Run the Script ? 
 
-2. Make the script executable:
+1. Make the script executable:
 
+```bash
 chmod +x install-tools.sh
+```
 
 Run the Installer
+
+```bash
 ./install-tools.sh
+```
+
+## 📁 Installation Path
+
+1. Tools are cloned to: ~/Tools
+2. Executables are moved to or symlinked in: /usr/local/bin
+3. Python virtual environment: ~/myenv
+
+## 🛡️ Legal Disclaimer
+
+This script and the tools it installs are intended only for ethical hacking, learning, and authorized penetration testing. Do not use against any system without explicit permission. You are solely responsible for your actions.
+
+## ❤️ Contributing
+
+Want to add tools, improve the script, or report bugs?
+
+1. Fork the repo
+2. Submit a pull request
+3. Or open an issue
+
+All contributions are welcome!
+
+
+## 🙏 Credits
+
+Huge thanks to the developers and maintainers of all the open-source tools included in ReconForge. This script simply automates their installation — all credit goes to the original creators.
