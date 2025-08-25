@@ -85,7 +85,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ReconForge.git
+git clone https://github.com/Nianohacker07/ReconForge
 cd ReconForge
 ```
 ## 🧪 How to Run the Script ? 
